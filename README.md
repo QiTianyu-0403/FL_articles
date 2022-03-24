@@ -2,6 +2,8 @@
 
 This is a repository of classic articles about federated learning that I have summarized myself, including article addresses and personal reading summaries. This repository will continue to be updated in the future...
 
+And welcome to communicate with me!! 😁
+
 ### Papers:
 
 1. **[Communication-efficient learning of deep networks from decentralized data](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/445458807)*
