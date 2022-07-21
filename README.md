@@ -14,5 +14,4 @@ And welcome to communicate with me!! 😁
 6. **[FedMD: Heterogenous Federated Learning via Model Distillation](https://arxiv.org/pdf/1910.03581.pdf)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/461482014)*
 7. **[Multi-Level Local SGD: Distributed SGD for Heterogeneous Hierarchical Networks](https://openreview.net/forum?id=C70cp4Cn32)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/482139548)*
 8. **[Context-Aware Online Client Selection for Hierarchical Federated Learning](https://arxiv.org/abs/2112.00925)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/497034591)*
-9. **[Multi-Level Local SGD: Distributed SGD for Heterogeneous Hierarchical Networks](https://openreview.net/forum?id=C70cp4Cn32)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/482139548)*
-10. **[FedMes: Speeding Up Federated Learning With Multiple Edge Servers](https://ieeexplore.ieee.org/abstract/document/9562553)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/482131239)*
+9. **[FedMes: Speeding Up Federated Learning With Multiple Edge Servers](https://ieeexplore.ieee.org/abstract/document/9562553)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/482131239)*
