@@ -19,3 +19,4 @@ And welcome to communicate with me!! 😁
 11. **[Dubhe- Towards Data Unbiasedness with Homomorphic Encryption in Federated Learning Client Selection](https://dl.acm.org/doi/abs/10.1145/3472456.3473513)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/547384043)*
 12. **[Data Heterogeneity-Robust Federated Learning via Group Client Selection in Industrial IoT](https://ieeexplore.ieee.org/abstract/document/9741255)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/554958731)*
 13. **[FedProto: Federated Prototype Learning across Heterogeneous Clients](https://www.aaai.org/AAAI22Papers/AAAI-6846.YueT.pdf)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/557496174)*
+14. **[DisPFL: Towards Communication-Efficient Personalized Federated Learning via Decentralized Sparse Training](https://arxiv.org/abs/2206.00187)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/559215527)*
