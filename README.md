@@ -22,3 +22,5 @@ And welcome to communicate with me!! 😁
 14. **[DisPFL: Towards Communication-Efficient Personalized Federated Learning via Decentralized Sparse Training](https://arxiv.org/abs/2206.00187)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/559215527)*
 15. **[DistFL: Distribution-aware Federated Learning for Mobile Scenarios](https://dl.acm.org/doi/abs/10.1145/3494966)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/559996133)*
 16. **[A Multi-Agent Reinforcement Learning Approach for Efﬁcient Client Selection in Federated Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20894)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/607428388)*
+17. **[FHDnn: Communication Efficient and Robust Federated Learning
+for AIoT Networks](https://dl.acm.org/doi/pdf/10.1145/3489517.3530394)**---*Notes: [Zhihu](https://zhuanlan.zhihu.com/p/6092310058)*
